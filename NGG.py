@@ -41,7 +41,7 @@ while playgame == "yes":
             elif play_again == "no":
                 playgame = "no"
                 print("Thank you for playing my game.")
-                print("A game by Ak Studios")
+                print("A game by Akop Studios")
             break
         i += 1
         if i == b:
@@ -77,4 +77,5 @@ while playgame == "yes":
 
     
     
+
 
