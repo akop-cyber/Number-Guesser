@@ -1,5 +1,3 @@
-import random
-playgame = "yes"
 
 import random
 playgame = "yes"
@@ -79,3 +77,4 @@ while playgame == "yes":
 
     
     
+
